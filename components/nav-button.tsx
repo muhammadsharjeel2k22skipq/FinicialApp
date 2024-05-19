@@ -23,7 +23,7 @@ const NavButton = ({ key, href, label, isActive }: Props) => {
       )}
     >
         <Link href={href} key={label}>
-            {label}
+          {label}
         </Link>
     </Button>
   )
