@@ -8,6 +8,13 @@
       "when": 1716814561430,
       "tag": "0000_petite_kingpin",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1716816683860,
+      "tag": "0001_wide_the_captain",
+      "breakpoints": true
     }
   ]
 }
