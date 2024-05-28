@@ -1,6 +1,6 @@
 import { useQuery } from "@tanstack/react-query";
 import { client } from "@/lib/hono";
-import { error } from "console";
+
 
 export const useGetAccounts = () => {
     const query = useQuery({
